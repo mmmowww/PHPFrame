@@ -2,7 +2,7 @@
 class quick_sort {
 	public $Arr = Array();
 	function __construct(){
-		$this-Arr;
+		$this->Arr;
 	}
 	function quick_sort(){ 
         $ARR = $this->Arr;
